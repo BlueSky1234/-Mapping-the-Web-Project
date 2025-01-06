@@ -1,9 +1,10 @@
 # Important Parts of a Web Browser
 
-![Web Browser Screenshot](Screenshot%202025-01-06%20091711.png)
+
 
 ## User Interface
 The visual elements the user interacts with.
+![Web Browser Screenshot](Screenshot%202025-01-06%20091711.png)
 
 ## Browser Engine
 Acts like a bridge between the UI and the Rendering Engine.
